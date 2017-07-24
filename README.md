@@ -1,2 +1,4 @@
 # hello-world
-pump and dump 
+
+Hi people, 
+This is for trading usage only
